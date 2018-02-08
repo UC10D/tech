@@ -9,5 +9,5 @@ uc10d所掌握的技术栈
 
 ### jekyll
 
-### jekyll
+### 技术相关
 [技术栈](https://github.com/UC10D/tech/wiki)

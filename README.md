@@ -14,5 +14,5 @@ uc10d所掌握的技术栈
 
 ### 代码管理工具
 
-* [git] (https://github.com/UC10D/git/blob/master/README.md)
+* [git](https://github.com/UC10D/git/blob/master/README.md)
 * svn

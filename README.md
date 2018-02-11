@@ -11,3 +11,8 @@ uc10d所掌握的技术栈
 
 ### 技术相关
 [技术栈](https://github.com/UC10D/tech/wiki)
+
+### 代码管理工具
+
+* [git] (https://github.com/UC10D/git/blob/master/README.md)
+* svn
